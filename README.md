@@ -10,4 +10,5 @@ Such as Aesculus Californica, Erodium Sp and Magnolia Grandiflora<br>
 <img width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/MagnoliaGrandiflora_02.JPG"> .
 
 <br>
-
+# Implementation
+The concept of Transfer Learning is that we take a pre-trained model such as ResNet50, AlexNet...etc as a general feature extractor, and subtitute its output layer with our own classifier depending on the condition of your dataset.
