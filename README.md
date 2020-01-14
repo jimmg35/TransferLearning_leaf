@@ -5,7 +5,7 @@ https://archive.ics.uci.edu/ml/datasets/leaf
 Ther are several classes of leaf, but I only employ three types of leaf to be classified.<br>
 Such as Aesculus Californica, Erodium Sp, Magnolia Grandiflora<br>
 
-<img width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/AesculusCalifornica_04.JPG">12
-<img width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/ErodiumSp_03.JPG">12
-<img width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/MagnoliaGrandiflora_02.JPG">12
+<img width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/AesculusCalifornica_04.JPG">Aesculus Californica
+<img width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/ErodiumSp_03.JPG">Erodium Sp
+<img width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/MagnoliaGrandiflora_02.JPG">Magnolia Grandiflora
 
