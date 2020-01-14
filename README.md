@@ -7,5 +7,5 @@ Such as Aesculus Californica, Erodium Sp, Magnolia Grandiflora<br>
 
 <img align = "left" width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/AesculusCalifornica_04.JPG">
 <img align = "center" width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/ErodiumSp_03.JPG">
-<img align = "center" width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/MagnoliaGrandiflora_02.JPG">
+<img align = "right" width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/MagnoliaGrandiflora_02.JPG">
 
