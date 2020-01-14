@@ -11,6 +11,11 @@ Such as Aesculus Californica, Erodium Sp and Magnolia Grandiflora<br>
 
 <br>
 
+Each class contains 7 images for training data, and 3 images for testing data.
+You might wonder that the amount of images is not enough for training. Therefore, I applied Imagedatagenerator to this project faking more than 1000 times data than original.
+
 # Implementation
 
 The concept of Transfer Learning is that we take a pre-trained model such as ResNet50, AlexNet...etc as a general feature extractor, and subtitute its output layer with our own classifier depending on the condition of your dataset.
+
+
