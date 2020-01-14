@@ -6,6 +6,6 @@ Ther are several classes of leaf, but I only employ three types of leaf to be cl
 Such as Aesculus Californica, Erodium Sp, Magnolia Grandiflora<br>
 
 <img width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/AesculusCalifornica_04.JPG"><br>Aesculus Californica
-<img width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/ErodiumSp_03.JPG">Erodium Sp
-<img width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/MagnoliaGrandiflora_02.JPG">Magnolia Grandiflora
+<img width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/ErodiumSp_03.JPG"><br>Erodium Sp
+<img width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/MagnoliaGrandiflora_02.JPG"><br>Magnolia Grandiflora
 
