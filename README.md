@@ -16,6 +16,8 @@ You might wonder that the amount of images is not enough for training. Therefore
 
 # Implementation
 
-The concept of Transfer Learning is that we take a pre-trained model such as ResNet50, AlexNet...etc as a general feature extractor, and subtitute its output layer with our own classifier depending on the condition of your dataset.
+The concept of Transfer Learning is that we take a pre-trained model such as ResNet50, AlexNet...etc as a general feature extractor, and subtitute its output layer with our own classifier depending on the condition of the dataset.
+
+
 
 
