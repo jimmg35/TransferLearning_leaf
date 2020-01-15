@@ -17,7 +17,7 @@ You might wonder that the amount of images is not enough for training. Therefore
 # Implementation
 
 The concept of Transfer Learning is that we take a pre-trained model such as ResNet50, AlexNet...etc as a general feature extractor, and subtitute its output layer with our own classifier depending on the condition of the dataset.<br>
-<img width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/dataset/Train/MagnoliaGrandiflora_02.JPG"><br>
+<img width="181" height="184" src="https://github.com/jimmg35/TransferLearning_leaf/blob/master/images/messageImage_1579061336680.jpg"><br>
 In this case. Since we don't have large amounts of data, I freeze the entire pre-trained model.
 
 
